@@ -1,9 +1,10 @@
 # ChatProgram
 
-## This is the final version assignment of developing a chat application of secure programming
+## This is the backdoor removed version of the assignment of developing a chat application of secure programming
 
 ##### Github url:  
-https://github.com/RinnkiX/ChatProgram.git
+Originial version: https://github.com/RinnkiX/ChatProgram.git  
+Backdoor removed version: https://github.com/RinnkiX/ChatProgram1.git  
 
 ##### This application is developed and modified by Group 14 (in the sharing Excel document), feel free for further contact(Xin Wen, a1893343@adelaide.edu.au; Yuhang Chen, a1914212@adelaide.edu.au)
 
